@@ -7,4 +7,5 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset" filter=-lfs diff= merge= text
 Assets/TextMesh[[:space:]]Pro/Resources/Fonts[[:space:]]&[[:space:]]Materials/LiberationSans[[:space:]]SDF[[:space:]]-[[:space:]]Fallback.asset !text !filter !merge !diff
